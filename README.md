@@ -1,18 +1,24 @@
+# Acknowledgment
+Special thanks to my mentor for the guidance and support throughout this internship for completing this product
+
+# About My Internship
+This repository is a product I created during my internship at NALs Company
+
 # FindingJob Website
 
-Một cổng thông tin việc làm đơn giản được xây dựng bằng Vue.js / Express.js và Sequelize.
+A simple job portal built using Vue.js / Express.js and Sequelize.
 
-Các chức năng bao gồm:
+Features include:
 
-- Người tìm việc:
-  Đăng ký, tìm kiếm và ứng tuyển việc làm.
-  Thêm công việc vào danh sách yêu thích.
-  Tạo hồ sơ người tìm việc sau khi đăng ký.
-- Nhà tuyển dụng:
-  Đăng ký, tạo, chỉnh sửa và đăng tin tuyển dụng mới.
-  Xem danh sách ứng viên.
-  Tạo hồ sơ nhà tuyển dụng sau khi đăng ký.
-
+-Jobseekers:
+  Register, search, and apply for jobs.
+  Add jobs to a favorites list.
+  Create a jobseeker profile after registration.
+-Employers:
+  Register, create, edit, and post new job listings.
+  View the list of applicants.
+  Create an employer profile after registration.
+  
 ## Setup
 
 ```bash
