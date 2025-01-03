@@ -1,4 +1,4 @@
-[nal japan.pdf](https://github.com/user-attachments/files/18283458/nal.japan.pdf)# Acknowledgment
+# Acknowledgment
 Special thanks to my mentor for the guidance and support throughout this internship for completing this product
 
 # About My Internship
